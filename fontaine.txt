@@ -1,0 +1,42 @@
+Fonts
+  Font:
+    Common name: Raleway Dots
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari(impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) and Brenda Gallo(gbrenda1987@gmail.com), with Reserved Font Name "Raleway"
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida, Brenda Gallo
+    Vendor url: http://theleagueofmoveabletype.com
+    Designer: Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida, Brenda Gallo
+    Designer url: http://pixelspread.com
+    Glyph count: 460
+    Character count: 407
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 5
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 19
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
